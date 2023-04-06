@@ -12,7 +12,7 @@ html, body {
   }
 
   #score-container {
-    background-color: aquamarine;
+    background-color: rgb(166, 255, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -25,7 +25,7 @@ html, body {
     background-color: black;
     border-radius: 5px;
     border-style: solid;
-    border-color: white;
+    border-color: rgb(255, 255, 255);
     width: 100px;
     height: 25px;
   }
@@ -40,7 +40,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: rgb(16, 199, 255);
     grid-column: 2/3;
     grid-row: 2/3;
   }
